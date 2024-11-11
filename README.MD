@@ -1,5 +1,6 @@
-# Football Memoirs - AI for Hardcore Football Fans
-This Streamlit app uses a Neo4j graph database and OpenAI's GPT-4o model to answer questions about international football history from 1872 to the present day.
+# Supply Chain test
+Guidance here: https://www.datacamp.com/tutorial/how-to-build-user-interfaces-for-ai-applications-using-streamlit-and-langchain
+This Streamlit app uses a Neo4j graph database and OpenAI's GPT-4o model to answer questions about supply chain data.
 ## Setup
 1. Clone this repository
 2. Install dependencies: pip install -r requirements.txt
