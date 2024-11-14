@@ -1,7 +1,7 @@
 import streamlit as st
 from graph_utils import init_resources, query_graph
 from chat_utils import initialize_chat_history, display_chat_history, handle_user_input
-st.title("Supply chain chatbot powered by GenAI")
+st.title("Supply chain control tower chatbot, powered by GenAI")
 # Sidebar for API key input
 with st.sidebar:
    openai_api_key = st.text_input("Enter your OpenAI API Key", type="password")
