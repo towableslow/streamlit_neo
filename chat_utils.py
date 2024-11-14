@@ -6,7 +6,7 @@ def initialize_chat_history():
        st.session_state.messages = [
            {
                "role": "assistant",
-               "content": "Hello! Ask me anything about International Football from 1872 to (the almost) present day!",
+               "content": "Hello Tom! Ask me anything about our organisation's supply chain!",
            }
        ]
 
